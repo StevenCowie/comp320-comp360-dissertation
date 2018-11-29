@@ -6,3 +6,6 @@ This is the base repository for the following assignments:
 
 Ethics consent form
 https://docs.google.com/forms/d/e/1FAIpQLSfZG4wrzBHQsknZ7Lu5eZOgmHdw_K6QhFDiSq421qlnVbJyKQ/viewform
+
+Sample System Usability Scale & Questionnaire
+https://docs.google.com/document/d/1dSTTJ18fjK94OFghPJwg7ZyzG8P7-zIVKTHl2cbcIKQ/edit?usp=sharing
